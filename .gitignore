@@ -1,0 +1,32 @@
+# IntelliJ IDEA
+.idea/
+
+# Maven
+target/
+.mvn/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Logs
+*.log
+log/
+logs/
+*.log.*
+
+# Compiled class file
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Maven Wrapper
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# Spring Boot generated files
+spring-boot-starter-*.log
